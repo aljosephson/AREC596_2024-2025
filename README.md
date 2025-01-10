@@ -1,9 +1,27 @@
 # AREC596_Fall2024
-Course website for AREC596 in the Fall of 2024. 
+Course website for AREC596 in 2024-2025. 
 
-Last update: 12 November 2024.
+Last update: 10 January 2025.
 
-Class meetings:
+Class meetings SPRING 2025:
+- 17 January
+- 24 January
+- 31 January
+- 7 February
+- 14 February
+- 21 February
+- 28 February
+- 7 March
+- 14 March
+- 21 March
+- 28 March
+- 4 April
+- 11 April
+- 18 April
+- 25 April
+- 2 May
+
+Class meetings FALL 2024:
 - 30 August: syllabus, book, expectations, objectives
   - Assignment: Read REiAE, Ch. 1; two questions due to alj by 11.59pm on 5 September 
 - 6 September: GitHub overview
@@ -34,4 +52,4 @@ Class meetings:
 - 22 November: SEMINAR ON 19 NOVEMBER - John Loomis, Colorado State University
   - NO CLASS ON 22 NOVEMBER
 - 29 November: Thanksgiving Break
-- 6 December
+- 6 December: No Class 
