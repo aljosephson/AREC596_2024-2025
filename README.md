@@ -1,4 +1,4 @@
-# AREC596_Fall2024
+# AREC596_2024-2025
 Course website for AREC596 in 2024-2025. 
 
 Last update: 10 January 2025.
@@ -12,13 +12,13 @@ Class meetings SPRING 2025:
 - 21 February
 - 28 February
 - 7 March
-- 14 March
+- 14 March - Andrew Soderberg
 - 21 March
 - 28 March
 - 4 April
 - 11 April
 - 18 April
-- 25 April
+- 25 April - Dari Duval
 - 2 May
 
 Class meetings FALL 2024:
