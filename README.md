@@ -11,10 +11,10 @@ Class meetings SPRING 2025:
 - 14 February
 - 21 February
 - 28 February
-- 7 March
+- 7 March - Ayden Macleod
 - 14 March - Andrew Soderberg
-- 21 March
-- 28 March
+- 21 March - Reece Branham
+- 28 March - Toni Marcheva: "Effects of annual water forecasts on irreversible groundwater investments and long-run water use"
 - 4 April
 - 11 April
 - 18 April
