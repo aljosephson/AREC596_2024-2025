@@ -1,7 +1,7 @@
 # AREC596_2024-2025
 Course website for AREC596 in 2024-2025. 
 
-Last update: 10 January 2025.
+Last update: 17 January 2025.
 
 Class meetings SPRING 2025:
 - 17 January
@@ -10,10 +10,10 @@ Class meetings SPRING 2025:
 - 7 February
 - 14 February
 - 21 February
-- 28 February
+- 28 February - Reece Branham
 - 7 March - Ayden Macleod
 - 14 March - Andrew Soderberg
-- 21 March - Reece Branham
+- 21 March - PROBABLY NO CLASS 
 - 28 March - Toni Marcheva: "Effects of annual water forecasts on irreversible groundwater investments and long-run water use"
 - 4 April
 - 11 April
