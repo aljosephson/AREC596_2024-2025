@@ -5,7 +5,7 @@ Last update: 17 January 2025.
 
 Class meetings SPRING 2025:
 - 17 January: read Gelman & Loken; Brodeur et al. 
-- 24 January: read Yacoubou Djima et al.; Nikolov
+- 24 January: learning Overleaf; read Yacoubou Djima et al.; Nikolov.
 - 31 January
 - 7 February
 - 14 February
