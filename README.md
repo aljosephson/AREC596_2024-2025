@@ -7,7 +7,7 @@ Class meetings SPRING 2025:
 - 17 January: read Gelman & Loken; Brodeur et al. 
 - 24 January: learning Overleaf; read Yacoubou Djima et al.; Nikolov.
 - 31 January: read Bellemare; Superiority of Economists 
-- 7 February
+- 7 February: Introduction Formula + drafts of introductions 
 - 14 February
 - 21 February
 - 28 February - Reece Branham
