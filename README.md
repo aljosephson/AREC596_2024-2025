@@ -4,10 +4,10 @@ Course website for AREC596 in 2024-2025.
 Last update: 31 January 2025.
 
 Class meetings SPRING 2025:
-- 17 January: read Gelman & Loken; Brodeur et al. 
-- 24 January: learning Overleaf; read Yacoubou Djima et al.; Nikolov.
-- 31 January: read Bellemare; Superiority of Economists 
-- 7 February: Introduction Formula + drafts of introductions 
+- 17 January (101 days): read Gelman & Loken; Brodeur et al. 
+- 24 January (94 days): learning Overleaf; read Yacoubou Djima et al.; Nikolov.
+- 31 January (87 days): read Bellemare; Superiority of Economists 
+- 7 February (80 days): Introduction Formula + drafts of introductions 
 - 14 February
 - 21 February
 - 28 February - Reece Branham
