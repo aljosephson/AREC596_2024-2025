@@ -8,7 +8,7 @@ Class meetings SPRING 2025:
 - 24 January (94 days): learning Overleaf; read Yacoubou Djima et al.; Nikolov.
 - 31 January (87 days): read Bellemare; Superiority of Economists 
 - 7 February (80 days): Introduction Formula + drafts of introductions 
-- 14 February: GUEST - Miles Kriger
+- 14 February: GUEST - Miles Kriger & Brenda Jimenez 
 - 21 February
 - 28 February - Reece Branham
 - 7 March - Ayden Macleod
