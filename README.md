@@ -11,9 +11,9 @@ Class meetings SPRING 2025:
 - 14 February (73 days): GUESTS - Miles Kriger & Brenda Jimenez 
 - 21 February
 - 28 February - Reece Branham
-- 7 March - Ayden Macleod
+- 7 March - Ayden Macleod (MAYBE NEED TO RESCHEDULE)
 - 14 March - Andrew Soderberg
-- 21 March - PROBABLY NO CLASS 
+- 21 March - PROBABLY WILL HAVE CLASS
 - 28 March - Toni Marcheva: "Effects of annual water forecasts on irreversible groundwater investments and long-run water use"
 - 4 April
 - 11 April
