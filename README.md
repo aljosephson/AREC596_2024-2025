@@ -9,7 +9,7 @@ Class meetings SPRING 2025:
 - 31 January (87 days): read Bellemare; Superiority of Economists 
 - 7 February (80 days): Introduction Formula + drafts of introductions 
 - 14 February (73 days): GUESTS - Miles Kriger & Brenda Jimenez 
-- 21 February
+- 21 February (): 
 - 28 February - Reece Branham
 - 7 March - Ayden Macleod (MAYBE NEED TO RESCHEDULE)
 - 14 March - Andrew Soderberg
