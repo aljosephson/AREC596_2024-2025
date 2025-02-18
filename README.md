@@ -15,9 +15,9 @@ Class meetings SPRING 2025:
 - 14 March - Andrew Soderberg
 - 21 March - PROBABLY WILL HAVE CLASS
 - 28 March - Toni Marcheva: "Effects of annual water forecasts on irreversible groundwater investments and long-run water use"
-- 4 April
-- 11 April
-- 18 April
+- 4 April - Rodrigo Guerra Su
+- 11 April - Amir Khusru
+- 18 April - Roberta Gracia 
 - 25 April - Dari Duval
 - 2 May
 
