@@ -13,7 +13,7 @@ Class meetings SPRING 2025:
 - 28 February - Reece Branham
 - 7 March - Ayden Macleod (MAYBE NEED TO RESCHEDULE)
 - 14 March - Andrew Soderberg
-- 21 March - PROBABLY WILL HAVE CLASS
+- 21 March - 
 - 28 March - Toni Marcheva: "Effects of annual water forecasts on irreversible groundwater investments and long-run water use"
 - 4 April - Rodrigo Guerra Su
 - 11 April - Amir Khusru
