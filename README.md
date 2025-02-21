@@ -9,10 +9,10 @@ Class meetings SPRING 2025:
 - 31 January (87 days): read Bellemare; Superiority of Economists 
 - 7 February (80 days): Introduction Formula + drafts of introductions 
 - 14 February (73 days): GUESTS - Miles Kriger & Brenda Jimenez 
-- 21 February (): Akerlof + drafts of introductions 
+- 21 February (66 days): Akerlof + drafts of introductions 
 - 28 February - Reece Branham
-- 7 March - Ayden Macleod (MAYBE NEED TO RESCHEDULE)
-- 14 March - Andrew Soderberg
+- 7 March - Ayden Macleod 
+- 14 March - SPRING BREAK 
 - 21 March - 
 - 28 March - Toni Marcheva: "Effects of annual water forecasts on irreversible groundwater investments and long-run water use"
 - 4 April - Rodrigo Guerra Su
