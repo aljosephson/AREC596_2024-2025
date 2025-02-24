@@ -10,16 +10,16 @@ Class meetings SPRING 2025:
 - 7 February (80 days): Introduction Formula + drafts of introductions 
 - 14 February (73 days): GUESTS - Miles Kriger & Brenda Jimenez 
 - 21 February (66 days): Akerlof + drafts of introductions 
-- 28 February - Reece Branham
+- 28 February 
 - 7 March - Ayden Macleod 
 - 14 March - SPRING BREAK 
-- 21 March - 
+- 21 March - Reece Branham
 - 28 March - Toni Marcheva: "Effects of annual water forecasts on irreversible groundwater investments and long-run water use"
 - 4 April - Rodrigo Guerra Su
 - 11 April - Amir Khusru
 - 18 April - Roberta Gracia 
 - 25 April - Dari Duval
-- 2 May
+- 2 May - Andrew Soderberg 
 
 Class meetings FALL 2024:
 - 30 August: syllabus, book, expectations, objectives
