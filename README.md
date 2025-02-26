@@ -10,7 +10,7 @@ Class meetings SPRING 2025:
 - 7 February (80 days): Introduction Formula + drafts of introductions 
 - 14 February (73 days): GUESTS - Miles Kriger & Brenda Jimenez 
 - 21 February (66 days): Akerlof + drafts of introductions 
-- 28 February 
+- 28 February (59 days): drafts of data sections
 - 7 March - Ayden Macleod 
 - 14 March - SPRING BREAK 
 - 21 March - Reece Branham
