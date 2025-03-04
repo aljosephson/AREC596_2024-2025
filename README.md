@@ -1,7 +1,7 @@
 # AREC596_2024-2025
 Course website for AREC596 in 2024-2025. 
 
-Last update: 2 March 2025.
+Last update: 4 March 2025.
 
 Class meetings SPRING 2025:
 - 17 January (101 days): read Gelman & Loken; Brodeur et al. 
@@ -11,7 +11,7 @@ Class meetings SPRING 2025:
 - 14 February (73 days): GUESTS - Miles Kriger & Brenda Jimenez 
 - 21 February (66 days): Akerlof + drafts of introductions 
 - 28 February (59 days): drafts of data sections
-- 7 March - Ayden Macleod 
+- 7 March (52 days) - Ayden Macleod 
 - 14 March - SPRING BREAK 
 - 21 March - Reece Branham
 - 28 March - Toni Marcheva: "Effects of annual water forecasts on irreversible groundwater investments and long-run water use"
