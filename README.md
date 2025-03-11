@@ -14,8 +14,10 @@ Class meetings SPRING 2025:
 - 7 March (52 days) - Ayden Macleod 
 - 14 March - SPRING BREAK 
 - 21 March - Reece Branham
+- Week of 24 March - Alan Ker 
 - 28 March - Toni Marcheva: "Effects of annual water forecasts on irreversible groundwater investments and long-run water use"
 - 4 April - Rodrigo Guerra Su
+- 10 April - Phillippe Lorde 
 - 11 April - Amir Khusru
 - 18 April - Roberta Gracia 
 - 25 April - Dari Duval
