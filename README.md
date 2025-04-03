@@ -17,7 +17,6 @@ Class meetings SPRING 2025:
 - Week of 24 March - Alan Ker 
 - 28 March (31 days) - Toni Marcheva: "Effects of annual water forecasts on irreversible groundwater investments and long-run water use"
 - 4 April - Rodrigo Guerra Su
-- 10 April - Phillippe Lorde 
 - 11 April - Amir Khusru
 - 18 April - Roberta Gracia 
 - 25 April - Dari Duval
