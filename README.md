@@ -16,8 +16,8 @@ Class meetings SPRING 2025:
 - 21 March (38 days) - Reece Branham
 - Week of 24 March - Alan Ker 
 - 28 March (31 days) - Toni Marcheva: "Effects of annual water forecasts on irreversible groundwater investments and long-run water use"
-- 4 April - Rodrigo Guerra Su
-- 11 April - Amir Khusru
+- 4 April (24 days) - Rodrigo Guerra Su
+- 11 April (17 days) - Amir Khusru
 - 18 April - Roberta Gracia 
 - 25 April - Dari Duval
 - 2 May - Andrew Soderberg 
