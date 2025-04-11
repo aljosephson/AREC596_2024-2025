@@ -19,8 +19,8 @@ Class meetings SPRING 2025:
 - 4 April (24 days) - Rodrigo Guerra Su
 - 11 April (17 days) - Amir Khusru
 - 18 April (10 days) - Roberta Gracia 
-- 25 April - Dari Duval
-- 2 May - Andrew Soderberg 
+- 25 April (3 days) - Dari Duval
+- 2 May (-4 days) - Andrew Soderberg 
 
 Class meetings FALL 2024:
 - 30 August: syllabus, book, expectations, objectives
