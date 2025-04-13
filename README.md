@@ -1,14 +1,14 @@
 # AREC596_2024-2025
 Course website for AREC596 in 2024-2025. 
 
-Last update: 8 April 2025.
+Last update: 14 April 2025.
 
-Class meetings SPRING 2025:
+Class meetings for SPRING 2025:
 - 17 January (101 days): read Gelman & Loken; Brodeur et al. 
 - 24 January (94 days): learning Overleaf; read Yacoubou Djima et al.; Nikolov.
 - 31 January (87 days): read Bellemare; Superiority of Economists 
 - 7 February (80 days): Introduction Formula + drafts of introductions 
-- 14 February (73 days): GUESTS - Miles Kriger & Brenda Jimenez 
+- 14 February (73 days): GUESTS - Miles Kriger & Brenda Jimenez, talking about graduation & jobs 
 - 21 February (66 days): Akerlof + drafts of introductions 
 - 28 February (59 days): drafts of data sections
 - 7 March (52 days) - Ayden Macleod 
@@ -22,7 +22,7 @@ Class meetings SPRING 2025:
 - 25 April (3 days) - Dari Duval
 - 2 May (-4 days) - Andrew Soderberg 
 
-Class meetings FALL 2024:
+Class meetings for FALL 2024:
 - 30 August: syllabus, book, expectations, objectives
   - Assignment: Read REiAE, Ch. 1; two questions due to alj by 11.59pm on 5 September 
 - 6 September: GitHub overview
