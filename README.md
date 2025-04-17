@@ -1,7 +1,7 @@
 # AREC596_2024-2025
 Course website for AREC596 in 2024-2025. 
 
-Last update: 14 April 2025.
+Last update: 17 April 2025.
 
 Class meetings for SPRING 2025:
 - 17 January (101 days): read Gelman & Loken; Brodeur et al. 
@@ -18,9 +18,9 @@ Class meetings for SPRING 2025:
 - 28 March (31 days) - Toni Marcheva: "Effects of annual water forecasts on irreversible groundwater investments and long-run water use"
 - 4 April (24 days) - Rodrigo Guerra Su
 - 11 April (17 days) - Amir Khusru
-- 18 April (10 days) - Roberta Gracia (Andrew Soderberg?)
+- 18 April (10 days) - Andrew Soderberg
 - 25 April (3 days) - Dari Duval
-- 2 May (-4 days) - Andrew Soderberg (Roberta Gracia?)
+- 2 May (-4 days) - Roberta Gracia
 
 Class meetings for FALL 2024:
 - 30 August: syllabus, book, expectations, objectives
