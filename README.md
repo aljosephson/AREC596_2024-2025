@@ -1,7 +1,9 @@
 # AREC596_2024-2025
 Course website for AREC596 in 2024-2025. 
 
-Last update: 25 April 2025.
+THANK YOU FOR A WONDERFUL YEAR! <3 
+
+Last update: 1 May 2025.
 
 Class meetings for SPRING 2025:
 - 17 January (101 days): read Gelman & Loken; Brodeur et al. 
